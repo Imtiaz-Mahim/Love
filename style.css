@@ -50,11 +50,11 @@ html{
   justify-content: center;
 }
 .rate{
-  font-size: 200px;
+  font-size: 185px;
 }
 .ratePer{
-  font-size: 155px;
-  margin-top: 20px
+  font-size: 140px;
+  margin-top: 25px
 }
 .inputs{
   display: flex;
@@ -67,7 +67,7 @@ input,button{
   height: 40px;
   width: 40%;
   border-radius: 6px;
-  font-size: 38px;
+  font-size: 35px;
   padding: 0 8px;
   color:cyan;
 }
@@ -81,7 +81,9 @@ input,button{
   justify-content: center;
 }
 .name2{
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .btn{
   margin-top: 3rem;
